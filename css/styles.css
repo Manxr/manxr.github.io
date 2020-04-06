@@ -1,0 +1,213 @@
+
+body{
+
+    font-family: 'Montserrat-light';
+    line-height: 1.5;}
+navbar-brand{
+
+    color: #F8DC88;
+}
+
+#title{
+    background-color: #fff;
+    color: #F8DC88;
+}
+
+#phone{
+letter-spacing: 1rem;
+  color: #EEE;
+}
+
+.logo-hov{
+  color: #0F4C81;
+  font-size: 3rem;
+  font-family: 'ubuntu';
+}
+
+.logo-hov:hover{
+    color: #fff;
+
+}
+.container-fluid{
+    padding: 3% 5%;
+}
+
+h1,h2 {
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3,h5,p,a,em {
+  font-family: 'Montserrat-light';
+  font-size: 1.5rem;
+  line-height: 1.5;
+  color: #BE79DF;
+  text-align:center;
+}
+/* navigation bar */
+
+.nav-link {
+    padding: 20px;
+}
+
+p{  color: #204051;
+}
+
+.P2-text {
+  color: #204051;
+}
+
+#top-nav{
+  background-color: #efefef;
+  padding: 12px;
+}
+
+/* Download button */
+
+.download-button {
+    margin: 280px 3% 2% 0%;
+}
+
+/* Title image */
+
+.title-image{
+        height:400px;
+        width:300px;
+}
+/* Testimonial Image */
+
+.rig {
+    width: 60%;
+    padding: 50px 20px 50px;
+}
+
+.hi {
+  margin-left: 300px;
+}
+
+#features {
+    text-align: center;
+}
+
+.look-after {
+    color: #F8DC88;
+    text-align: center;
+    padding: 10% 15%;
+}
+
+.fas{
+    font-size: 2rem;
+    color: darkmagenta;
+}
+
+.fas:hover {
+    color: crimson;
+}
+
+.btn_box{
+height:auto;
+width:300px;
+background-color:red;
+margin: 0px 0px 0px 0px;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+  padding:  15% 20%;
+  text-align:center;
+  background-color: #DEE3E2;
+  color: #204051
+}
+
+#carouselExampleSlidesOnly {
+    padding:  15% 20%;
+}
+
+#press{
+  background-color:#204051;
+  padding: 3%;
+}
+
+.sub-msg {
+  font-family: 'Montserrat-light';
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.card-header {
+  font-family: 'Montserrat-light';
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #204051;
+}
+
+.card-title{
+  font-family: 'Montserrat-light';
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #204051;
+}
+
+.testimonial-image{
+      width: 20%;
+      height: 20%;
+}
+
+.press-img{
+
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.d-block{
+  width: 300px;
+  height: 500px;
+}
+
+.card-body{
+  text-align:center;
+  padding-bottom: 10%;
+}
+
+.card-color
+  {
+    color: #235952;
+  }
+.sub-msg {
+    text-align:center;
+    padding-bottom: 10%;
+}
+#download{
+  margin: auto;
+}
+
+.download12 {
+  padding: 10%;
+}
+
+.P2-text {
+  font-family: 'Montserrat-light';
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #204051;
+}
+
+#sign{
+  color: #fff;
+}
+
+@media (max-width: 1024px) {
+    #dog{
+      font-size: 2rem;
+    }}
+/* Footer */
+
+#footer{
+    text-align: center;
+}
+
+.social-icon {
+    margin: 20px 10px;
+}
